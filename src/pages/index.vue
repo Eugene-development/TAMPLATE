@@ -1,8 +1,9 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="mb-12 text-center text-5xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-        <span class="block te mb-4">База </span>
+      <h2 class=""></h2>
+      <h1 class="mb-12  text-5xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
+        <span class="block mb-4">База </span>
         <span class="block text-indigo-300">"XXX"</span>
       </h1>
 
